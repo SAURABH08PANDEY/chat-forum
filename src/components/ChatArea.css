@@ -1,0 +1,10 @@
+.type{
+    position: absolute;
+    bottom: 7vh;
+}
+
+.chatArea{
+    height: 77vh;
+    overflow-y: auto;
+
+}

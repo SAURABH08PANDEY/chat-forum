@@ -1,0 +1,39 @@
+.whole{
+    border:2px solid black;
+    width: fit-content;
+    padding: .5rem;
+    display: flex;
+    word-wrap: break-word;
+    white-space: pre-line;
+    flex-direction: column;
+    margin: .9rem 0;
+
+
+}
+
+.name{
+    font-size: .7rem;
+    color:black;
+}
+
+.msg{
+    font-size: 1.4rem;
+    color:black;
+    
+}
+
+.left{
+    max-width: 30rem;
+    margin-left:auto;
+    border-radius: 1rem 1rem 0 1rem;
+    margin-right: 2rem;
+    background: rgba(86, 186, 68,0.8);
+}
+
+.right{
+    margin-right:auto;
+    border-radius: 0 1rem 1rem 1rem;
+    margin-left: 2rem;
+    background-color: rgba(108, 127, 242,0.8);
+}
+
