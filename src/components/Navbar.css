@@ -5,6 +5,7 @@
     align-items: center;
     box-shadow: 0 0 10px rgba(0,0,0,0.5);
     width: 100%;
+    border-radius: 1rem 1rem 0 0;
 }
 
 .navbar__logo{
@@ -19,8 +20,9 @@
 
 .butt{
     margin-left: auto;
-    margin-right: 3rem;
-    width: 8rem;
+    margin-right: 1vw;
+    width: 7vw;
+    min-width: 4vw;
     height: 2rem;
 
 

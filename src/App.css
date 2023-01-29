@@ -8,10 +8,13 @@
   width: 80vw;
   max-width: 50rem;
   height: 90vh;
-  background-color: #dcf8c6;
-  background-image: url("./resources/boom.jpg");
+  background-color: #1E293B;
+  /* background-color: #dcf8c6; */
+  /* background-image: url("./resources/boom.jpg"); */
   background-size: cover;
   opacity: 0.8;
+  border-radius: 1rem;
+  box-shadow: 0 0 10px rgba(0,0,0,0.5);
 }
 
 .AppOuter{
@@ -20,8 +23,8 @@
   align-items: center;
   justify-content: center;
   height: 100vh;
-  background-color: #128c7e;
-  background-image: url("./resources/4267109.jpg");
+  background-color: #111827;
+  /* background-image: url("./resources/4267109.jpg"); */
   background-size: cover;
   background-position: center;
 }
