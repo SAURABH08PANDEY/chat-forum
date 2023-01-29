@@ -1,4 +1,9 @@
 .butt{
     width: fit-content;
-    border: 2px solid white;
+    display: flex;
+    align-items: center;
+    font-size: 0.9rem;
+    background-color: wheat;
+    padding: 0.4rem 1.2rem;
+    color: black;
 }

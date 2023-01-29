@@ -13,7 +13,7 @@ const Navbar = () => {
           <h1>Chat Forum</h1>
         </div>
 
-        <div className="butt">{user ? <LogOut /> : <SignIn />}</div>
+        <div className="buttt">{user ? <LogOut /> : <SignIn />}</div>
       </div>
     </div>
   );
